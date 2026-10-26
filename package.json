@@ -1,0 +1,13 @@
+{
+  "name": "intranetciclo",
+  "version": "1.0.0",
+  "description": "Intranet Ciclo",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 3000",
+    "dev": "http-server -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
